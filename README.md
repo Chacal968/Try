@@ -11,7 +11,7 @@ sudo apt install build-essential \
 
 # NekoRay Installer
 
-Instala [NekoRay](https://github.com/MatsuriDayo/nekoray) in your linux:
+Instala [NekoRay](https://github.com/MatsuriDayo/nekoray) en tu linux:
 
 ```shell
 wget -qO- https://raw.githubusercontent.com/Chacal968/Try/main/installer.sh | bash
